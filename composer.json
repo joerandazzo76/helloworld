@@ -1,0 +1,16 @@
+{
+    "name": "joera/new-deck",
+    "description": "playing cards",
+    "require": {
+        "phpunit/phpunit": "^7.0",
+        "php": "^7.1"
+    },
+    "minimum-stability": "dev",
+        "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+
+
+}
